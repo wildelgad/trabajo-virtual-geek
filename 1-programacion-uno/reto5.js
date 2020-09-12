@@ -1,3 +1,3 @@
 'use strict';
 
-const fraseContrasena = document.querySelector('p');
+document.querySelector('p').innerHTML = 'Mi contraseña es: **';
